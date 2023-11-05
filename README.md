@@ -15,6 +15,7 @@
   - Lombok
 - Python:
   - [Apache Airflow (Certified)](https://www.credly.com/badges/1f7fdac2-a5f9-4be2-96c9-3233eafcf02c/public_url)
+  - [Apache Airflow DAG Authoring (Certified)](https://www.credly.com/badges/77e19a9f-387c-46ef-a655-d3d7fafd2021/public_url)
   - FastAPI
   - Flask
   - Pydantic
